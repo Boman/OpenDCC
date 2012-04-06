@@ -11,6 +11,200 @@
   <g style="fill:black; stroke:black; stroke-width:1">
 </g>
 <g style="fill:#000000; fill-opacity:0.0; 
+  stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:10" 
+   transform="translate(0 0) scale(1 1)">
+<path d="M6364 3934 L6364 3874" /> 
+<path d="M6364 3874 L6384 3917" /> 
+<path d="M6384 3917 L6404 3874" /> 
+<path d="M6404 3874 L6404 3934" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6404 3934 L6404 3934" /> 
+</g><path d="M6445 3874 L6456 3874" /> 
+<path d="M6456 3874 L6462 3877" /> 
+<path d="M6462 3877 L6468 3883" /> 
+<path d="M6468 3883 L6470 3894" /> 
+<path d="M6470 3894 L6470 3914" /> 
+<path d="M6470 3914 L6468 3926" /> 
+<path d="M6468 3926 L6462 3931" /> 
+<path d="M6462 3931 L6456 3934" /> 
+<path d="M6456 3934 L6445 3934" /> 
+<path d="M6445 3934 L6439 3931" /> 
+<path d="M6439 3931 L6433 3926" /> 
+<path d="M6433 3926 L6430 3914" /> 
+<path d="M6430 3914 L6430 3894" /> 
+<path d="M6430 3894 L6433 3883" /> 
+<path d="M6433 3883 L6439 3877" /> 
+<path d="M6439 3877 L6445 3874" /> 
+<path d="M6493 3931 L6502 3934" /> 
+<path d="M6502 3934 L6516 3934" /> 
+<path d="M6516 3934 L6522 3931" /> 
+<path d="M6522 3931 L6525 3929" /> 
+<path d="M6525 3929 L6528 3923" /> 
+<path d="M6528 3923 L6528 3917" /> 
+<path d="M6528 3917 L6525 3911" /> 
+<path d="M6525 3911 L6522 3909" /> 
+<path d="M6522 3909 L6516 3906" /> 
+<path d="M6516 3906 L6505 3903" /> 
+<path d="M6505 3903 L6499 3900" /> 
+<path d="M6499 3900 L6496 3897" /> 
+<path d="M6496 3897 L6493 3891" /> 
+<path d="M6493 3891 L6493 3886" /> 
+<path d="M6493 3886 L6496 3880" /> 
+<path d="M6496 3880 L6499 3877" /> 
+<path d="M6499 3877 L6505 3874" /> 
+<path d="M6505 3874 L6519 3874" /> 
+<path d="M6519 3874 L6528 3877" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6528 3877 L6528 3877" /> 
+</g><path d="M6553 3934 L6553 3874" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6553 3874 L6553 3874" /> 
+</g><path d="M6364 3834 L6364 3774" /> 
+<path d="M6364 3774 L6384 3817" /> 
+<path d="M6384 3817 L6404 3774" /> 
+<path d="M6404 3774 L6404 3834" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6404 3834 L6404 3834" /> 
+</g><path d="M6433 3834 L6433 3774" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6433 3774 L6433 3774" /> 
+</g><path d="M6459 3831 L6468 3834" /> 
+<path d="M6468 3834 L6482 3834" /> 
+<path d="M6482 3834 L6488 3831" /> 
+<path d="M6488 3831 L6491 3829" /> 
+<path d="M6491 3829 L6494 3823" /> 
+<path d="M6494 3823 L6494 3817" /> 
+<path d="M6494 3817 L6491 3811" /> 
+<path d="M6491 3811 L6488 3809" /> 
+<path d="M6488 3809 L6482 3806" /> 
+<path d="M6482 3806 L6471 3803" /> 
+<path d="M6471 3803 L6465 3800" /> 
+<path d="M6465 3800 L6462 3797" /> 
+<path d="M6462 3797 L6459 3791" /> 
+<path d="M6459 3791 L6459 3786" /> 
+<path d="M6459 3786 L6462 3780" /> 
+<path d="M6462 3780 L6465 3777" /> 
+<path d="M6465 3777 L6471 3774" /> 
+<path d="M6471 3774 L6485 3774" /> 
+<path d="M6485 3774 L6494 3777" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6494 3777 L6494 3777" /> 
+</g><path d="M6531 3774 L6542 3774" /> 
+<path d="M6542 3774 L6548 3777" /> 
+<path d="M6548 3777 L6554 3783" /> 
+<path d="M6554 3783 L6556 3794" /> 
+<path d="M6556 3794 L6556 3814" /> 
+<path d="M6556 3814 L6554 3826" /> 
+<path d="M6554 3826 L6548 3831" /> 
+<path d="M6548 3831 L6542 3834" /> 
+<path d="M6542 3834 L6531 3834" /> 
+<path d="M6531 3834 L6525 3831" /> 
+<path d="M6525 3831 L6519 3826" /> 
+<path d="M6519 3826 L6516 3814" /> 
+<path d="M6516 3814 L6516 3794" /> 
+<path d="M6516 3794 L6519 3783" /> 
+<path d="M6519 3783 L6525 3777" /> 
+<path d="M6525 3777 L6531 3774" /> 
+<path d="M6361 3731 L6370 3734" /> 
+<path d="M6370 3734 L6384 3734" /> 
+<path d="M6384 3734 L6390 3731" /> 
+<path d="M6390 3731 L6393 3729" /> 
+<path d="M6393 3729 L6396 3723" /> 
+<path d="M6396 3723 L6396 3717" /> 
+<path d="M6396 3717 L6393 3711" /> 
+<path d="M6393 3711 L6390 3709" /> 
+<path d="M6390 3709 L6384 3706" /> 
+<path d="M6384 3706 L6373 3703" /> 
+<path d="M6373 3703 L6367 3700" /> 
+<path d="M6367 3700 L6364 3697" /> 
+<path d="M6364 3697 L6361 3691" /> 
+<path d="M6361 3691 L6361 3686" /> 
+<path d="M6361 3686 L6364 3680" /> 
+<path d="M6364 3680 L6367 3677" /> 
+<path d="M6367 3677 L6373 3674" /> 
+<path d="M6373 3674 L6387 3674" /> 
+<path d="M6387 3674 L6396 3677" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6396 3677 L6396 3677" /> 
+</g><path d="M6456 3729 L6453 3731" /> 
+<path d="M6453 3731 L6444 3734" /> 
+<path d="M6444 3734 L6438 3734" /> 
+<path d="M6438 3734 L6430 3731" /> 
+<path d="M6430 3731 L6424 3726" /> 
+<path d="M6424 3726 L6421 3720" /> 
+<path d="M6421 3720 L6418 3709" /> 
+<path d="M6418 3709 L6418 3700" /> 
+<path d="M6418 3700 L6421 3689" /> 
+<path d="M6421 3689 L6424 3683" /> 
+<path d="M6424 3683 L6430 3677" /> 
+<path d="M6430 3677 L6438 3674" /> 
+<path d="M6438 3674 L6444 3674" /> 
+<path d="M6444 3674 L6453 3677" /> 
+<path d="M6453 3677 L6456 3680" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6456 3680 L6456 3680" /> 
+</g><path d="M6481 3734 L6481 3674" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6481 3674 L6481 3674" /> 
+</g><path d="M6516 3734 L6490 3700" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6490 3700 L6490 3700" /> 
+</g><path d="M6516 3674 L6481 3709" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M6481 3709 L6481 3709" /> 
+</g></g>
+<g style="fill:#A00000; fill-opacity:0.0; 
+  stroke:#A00000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
+   transform="translate(0 0) scale(1 1)">
+<ellipse cx="3350" cy="3600" rx="20" ry="20"  /> 
+<path d="M3350 3550 L3350 3580" /> 
+<path d="M3350 3580 L3350 3580" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M3350 3580 L3350 3580" /> 
+</g></g>
+<g style="fill:#00A0A0; fill-opacity:0.0; 
+  stroke:#00A0A0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:5" 
+   transform="translate(0 0) scale(1 1)">
+<path d="M3310 3632 L3320 3662" /> 
+<path d="M3320 3662 L3330 3632" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M3330 3632 L3330 3632" /> 
+</g><path d="M3357 3659 L3356 3661" /> 
+<path d="M3356 3661 L3352 3662" /> 
+<path d="M3352 3662 L3349 3662" /> 
+<path d="M3349 3662 L3344 3661" /> 
+<path d="M3344 3661 L3342 3658" /> 
+<path d="M3342 3658 L3340 3655" /> 
+<path d="M3340 3655 L3339 3649" /> 
+<path d="M3339 3649 L3339 3645" /> 
+<path d="M3339 3645 L3340 3639" /> 
+<path d="M3340 3639 L3342 3636" /> 
+<path d="M3342 3636 L3344 3634" /> 
+<path d="M3344 3634 L3349 3632" /> 
+<path d="M3349 3632 L3352 3632" /> 
+<path d="M3352 3632 L3356 3634" /> 
+<path d="M3356 3634 L3357 3635" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M3357 3635 L3357 3635" /> 
+</g><path d="M3387 3659 L3386 3661" /> 
+<path d="M3386 3661 L3382 3662" /> 
+<path d="M3382 3662 L3379 3662" /> 
+<path d="M3379 3662 L3374 3661" /> 
+<path d="M3374 3661 L3372 3658" /> 
+<path d="M3372 3658 L3370 3655" /> 
+<path d="M3370 3655 L3369 3649" /> 
+<path d="M3369 3649 L3369 3645" /> 
+<path d="M3369 3645 L3370 3639" /> 
+<path d="M3370 3639 L3372 3636" /> 
+<path d="M3372 3636 L3374 3634" /> 
+<path d="M3374 3634 L3379 3632" /> 
+<path d="M3379 3632 L3382 3632" /> 
+<path d="M3382 3632 L3386 3634" /> 
+<path d="M3386 3634 L3387 3635" /> 
+<g style = "stroke-linecap:round;" > 
+<path d="M3387 3635 L3387 3635" /> 
+</g></g>
+<g style="fill:#00A0A0; fill-opacity:0.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M5850 5750 L6300 5750" /> 
@@ -27,15 +221,13 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M2500 6300 L2400 6300" /> 
-<path d="M2400 6300 L1800 6300" /> 
+<path d="M2500 6300 L1800 6300" /> 
 <path d="M3100 6300 L3000 6300" /> 
 <path d="M3100 6550 L3000 6550" /> 
 <path d="M5850 5850 L6650 5850" /> 
 <path d="M6650 5850 L6650 6450" /> 
 <path d="M4800 6650 L4800 6550" /> 
-<path d="M2300 6400 L2300 6550" /> 
-<path d="M2300 6550 L2300 6900" /> 
+<path d="M2300 6400 L2300 6900" /> 
 <path d="M2300 6400 L1700 6400" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -47,15 +239,13 @@
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M8550 6400 L8550 6500" /> 
-<path d="M8850 6400 L8850 6500" /> 
-<path d="M9000 6500 L9000 6400" /> 
+<path d="M8850 6500 L8850 6400" /> 
+<path d="M9000 6400 L9000 6500" /> 
 <path d="M1500 1350 L1500 1700" /> 
 <path d="M1500 750 L1500 600" /> 
 <path d="M1500 1700 L1100 1700" /> 
-<path d="M3100 1350 L3100 1650" /> 
-<path d="M3100 1650 L3100 1800" /> 
-<path d="M4250 1050 L3650 1050" /> 
-<path d="M3650 1050 L3500 1050" /> 
+<path d="M3100 1350 L3100 1800" /> 
+<path d="M3500 1050 L4250 1050" /> 
 <path d="M7550 6450 L7450 6450" /> 
 <path d="M7350 6050 L7250 6050" /> 
 <path d="M6750 6050 L6450 6050" /> 
@@ -70,8 +260,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M1300 3500 L2000 3500" /> 
-<path d="M2000 3500 L2300 3500" /> 
+<path d="M2300 3500 L1300 3500" /> 
 <path d="M2300 3500 L2300 3600" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -82,8 +271,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M4000 2550 L4000 2450" /> 
-<path d="M4000 2450 L4000 2150" /> 
+<path d="M4000 2550 L4000 2150" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -93,8 +281,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M4600 2550 L4600 2450" /> 
-<path d="M4600 2450 L4600 2350" /> 
+<path d="M4600 2550 L4600 2350" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -105,10 +292,9 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M1200 2300 L1200 3000" /> 
-<path d="M1200 3000 L950 3000" /> 
-<path d="M950 3000 L950 4500" /> 
-<path d="M950 4500 L950 4650" /> 
+<path d="M1200 3000 L1200 2300" /> 
+<path d="M950 3000 L1200 3000" /> 
+<path d="M950 4650 L950 3000" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -120,12 +306,10 @@
    transform="translate(0 0) scale(1 1)">
 <path d="M2000 4000 L2000 3500" /> 
 <path d="M2700 4500 L2600 4500" /> 
-<path d="M2000 4500 L2000 4400" /> 
-<path d="M1300 3600 L1300 3500" /> 
-<path d="M1300 3500 L1300 3400" /> 
+<path d="M2000 4400 L2000 4500" /> 
+<path d="M1300 3600 L1300 3400" /> 
 <path d="M3350 2950 L3350 2850" /> 
-<path d="M1700 2300 L1200 2300" /> 
-<path d="M1200 2300 L1100 2300" /> 
+<path d="M1700 2300 L1100 2300" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -146,31 +330,8 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#0000C0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:17" 
    transform="translate(0 0) scale(1 1)">
-<path d="M6850 5550 L6650 5550" /> 
-<path d="M6650 5550 L6650 5450" /> 
-<path d="M6650 5450 L6650 5350" /> 
-<path d="M6650 5350 L6650 5250" /> 
-<path d="M6650 5250 L6650 5150" /> 
-<path d="M6650 5150 L6650 5050" /> 
-<path d="M6650 5050 L6650 4950" /> 
-<path d="M6650 4950 L6650 4850" /> 
-<path d="M6650 4850 L6650 4750" /> 
-<path d="M6650 4750 L6650 4550" /> 
-<path d="M6650 4550 L6650 4450" /> 
-<path d="M6650 4450 L6650 4350" /> 
-<path d="M6650 4350 L6650 4250" /> 
-<path d="M6650 4250 L6650 4150" /> 
-<path d="M6650 4150 L6650 4050" /> 
-<path d="M6650 4050 L6650 3950" /> 
-<path d="M6650 3950 L6650 3850" /> 
-<path d="M6650 3850 L6650 3650" /> 
-<path d="M6650 3650 L6650 3550" /> 
-<path d="M6650 3550 L6650 3450" /> 
-<path d="M6650 3450 L6650 3350" /> 
-<path d="M6650 3350 L6650 3250" /> 
-<path d="M6650 3250 L6650 3150" /> 
-<path d="M6650 3150 L6650 3050" /> 
-<path d="M6650 3050 L6650 2950" /> 
+<path d="M6650 5550 L6850 5550" /> 
+<path d="M6650 2950 L6650 5550" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
@@ -187,16 +348,14 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M4600 6550 L4600 6650" /> 
-<path d="M4700 2150 L4500 2150" /> 
+<path d="M4600 6650 L4600 6550" /> 
+<path d="M4500 2150 L4700 2150" /> 
 <path d="M2400 6300 L2400 7000" /> 
 <path d="M1800 6300 L1800 6200" /> 
-<path d="M1000 6900 L1000 6950" /> 
-<path d="M1000 6950 L1000 7000" /> 
+<path d="M1000 6900 L1000 7000" /> 
 <path d="M1000 6900 L1100 6900" /> 
 <path d="M2700 7500 L2700 7300" /> 
-<path d="M2850 6800 L2700 6800" /> 
-<path d="M2700 6800 L2200 6800" /> 
+<path d="M2850 6800 L2200 6800" /> 
 <path d="M2400 7000 L2200 7000" /> 
 <path d="M2200 7100 L2400 7100" /> 
 <path d="M2300 6900 L2200 6900" /> 
@@ -221,7 +380,7 @@
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M2550 1650 L2550 1550" /> 
-<path d="M4250 1550 L4250 1650" /> 
+<path d="M4250 1650 L4250 1550" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -234,7 +393,7 @@
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M1100 1150 L1100 1050" /> 
-<path d="M2550 1050 L2550 1150" /> 
+<path d="M2550 1150 L2550 1050" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -244,10 +403,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M4250 1650 L3650 1650" /> 
-<path d="M3650 1650 L3100 1650" /> 
-<path d="M3100 1650 L2550 1650" /> 
-<path d="M2550 1650 L1950 1650" /> 
+<path d="M4250 1650 L1950 1650" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -273,8 +429,7 @@
 <path d="M900 600 L1500 600" /> 
 <path d="M3650 1650 L3650 1550" /> 
 <path d="M1950 1650 L1950 1550" /> 
-<path d="M4250 1150 L4250 1050" /> 
-<path d="M4250 1050 L4250 950" /> 
+<path d="M4250 1150 L4250 950" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -289,8 +444,7 @@
 <path d="M4500 2450 L4600 2450" /> 
 <path d="M4000 2150 L4100 2150" /> 
 <path d="M4100 2450 L4000 2450" /> 
-<path d="M4700 6750 L4700 6650" /> 
-<path d="M4700 6650 L4700 6550" /> 
+<path d="M4700 6750 L4700 6550" /> 
 <path d="M5850 6150 L6050 6150" /> 
 <path d="M6050 6050 L5850 6050" /> 
 <path d="M5850 3850 L6550 3850" /> 
@@ -319,17 +473,14 @@
 <path d="M4950 1300 L5350 1300" /> 
 <path d="M6250 1300 L6150 1300" /> 
 <path d="M3350 2850 L3650 2850" /> 
-<path d="M2100 700 L1950 700" /> 
-<path d="M1950 700 L1950 1050" /> 
-<path d="M1950 1050 L1950 1150" /> 
+<path d="M1950 700 L2100 700" /> 
+<path d="M1950 1150 L1950 700" /> 
 <path d="M500 6950 L1000 6950" /> 
-<path d="M2200 2300 L2300 2300" /> 
-<path d="M2300 2300 L2400 2300" /> 
+<path d="M2200 2300 L2400 2300" /> 
 <path d="M2300 2900 L2300 2800" /> 
 <path d="M1700 2100 L1100 2100" /> 
 <path d="M3350 3550 L3350 3450" /> 
-<path d="M1300 4300 L1300 4200" /> 
-<path d="M1300 4200 L1300 4100" /> 
+<path d="M1300 4300 L1300 4100" /> 
 <path d="M1700 4200 L1300 4200" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -340,8 +491,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M2100 4500 L2000 4500" /> 
-<path d="M2000 4500 L1600 4500" /> 
+<path d="M2100 4500 L1600 4500" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -356,8 +506,7 @@
 <path d="M700 4800 L600 4800" /> 
 <path d="M600 4800 L600 4500" /> 
 <path d="M600 4500 L950 4500" /> 
-<path d="M4700 2550 L4700 2150" /> 
-<path d="M4700 2150 L4700 2050" /> 
+<path d="M4700 2550 L4700 2050" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -369,8 +518,7 @@
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M2300 4100 L2300 4000" /> 
-<path d="M7950 6150 L7950 6050" /> 
-<path d="M7950 6050 L7950 5750" /> 
+<path d="M7950 6150 L7950 5750" /> 
 <path d="M7950 5750 L7750 5750" /> 
 <path d="M6750 5750 L6550 5750" /> 
 <path d="M6550 5750 L6550 5550" /> 
@@ -434,10 +582,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#0000C0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:17" 
    transform="translate(0 0) scale(1 1)">
-<path d="M9100 2900 L9100 2700" /> 
-<path d="M9100 2700 L9100 2500" /> 
-<path d="M9100 2500 L9100 2300" /> 
-<path d="M9100 2300 L9100 2200" /> 
+<path d="M9100 2900 L9100 2200" /> 
 <path d="M9100 2200 L8900 2200" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -449,14 +594,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#0000C0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:17" 
    transform="translate(0 0) scale(1 1)">
-<path d="M7300 1700 L7300 1600" /> 
-<path d="M7300 1600 L7300 1500" /> 
-<path d="M7300 1500 L7300 1400" /> 
-<path d="M7300 1400 L7300 1300" /> 
-<path d="M7300 1300 L7300 1200" /> 
-<path d="M7300 1200 L7300 1100" /> 
-<path d="M7300 1100 L7300 1000" /> 
-<path d="M7300 1000 L7300 900" /> 
+<path d="M7300 1700 L7300 900" /> 
 <path d="M7300 900 L7100 900" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -468,15 +606,8 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#0000C0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:17" 
    transform="translate(0 0) scale(1 1)">
-<path d="M7100 3450 L7300 3450" /> 
-<path d="M7300 3450 L7300 3550" /> 
-<path d="M7300 3550 L7300 3650" /> 
-<path d="M7300 3650 L7300 3750" /> 
-<path d="M7300 3750 L7300 3850" /> 
-<path d="M7300 3850 L7300 3950" /> 
-<path d="M7300 3950 L7300 4050" /> 
-<path d="M7300 4050 L7300 4150" /> 
-<path d="M7300 4150 L7300 4250" /> 
+<path d="M7300 3450 L7100 3450" /> 
+<path d="M7300 4250 L7300 3450" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
@@ -487,11 +618,8 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#0000C0; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:17" 
    transform="translate(0 0) scale(1 1)">
-<path d="M8900 4750 L9100 4750" /> 
-<path d="M9100 4750 L9100 4850" /> 
-<path d="M9100 4850 L9100 5050" /> 
-<path d="M9100 5050 L9100 5250" /> 
-<path d="M9100 5250 L9100 5450" /> 
+<path d="M9100 4750 L8900 4750" /> 
+<path d="M9100 5450 L9100 4750" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
@@ -549,9 +677,7 @@
 <path d="M10350 6550 L10250 6550" /> 
 <path d="M1200 1500 L1100 1500" /> 
 <path d="M1100 1050 L1200 1050" /> 
-<path d="M2700 1050 L2550 1050" /> 
-<path d="M2550 1050 L1950 1050" /> 
-<path d="M1950 1050 L1800 1050" /> 
+<path d="M2700 1050 L1800 1050" /> 
 <path d="M8700 6400 L8700 6500" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -562,10 +688,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M9000 6400 L8850 6400" /> 
-<path d="M8850 6400 L8700 6400" /> 
-<path d="M8700 6400 L8550 6400" /> 
-<path d="M8550 6400 L8400 6400" /> 
+<path d="M9000 6400 L8400 6400" /> 
 <path d="M8400 6400 L8400 6500" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -577,9 +700,7 @@
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
 <path d="M2300 2400 L2300 2300" /> 
-<path d="M4600 6650 L4700 6650" /> 
-<path d="M4700 6650 L4800 6650" /> 
-<path d="M4800 6650 L4900 6650" /> 
+<path d="M4600 6650 L4900 6650" /> 
 <path d="M4900 6650 L4900 6550" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
@@ -591,14 +712,12 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M4800 2550 L4800 2150" /> 
-<path d="M4800 2150 L4800 2050" /> 
+<path d="M4800 2550 L4800 2050" /> 
 <path d="M5400 2450 L5500 2450" /> 
-<path d="M5400 2150 L5500 2150" /> 
+<path d="M5500 2150 L5400 2150" /> 
 <path d="M5000 2450 L4900 2450" /> 
 <path d="M4800 2150 L5000 2150" /> 
-<path d="M4900 2550 L4900 2450" /> 
-<path d="M4900 2450 L4900 2350" /> 
+<path d="M4900 2550 L4900 2350" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -608,8 +727,7 @@
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
    transform="translate(0 0) scale(1 1)">
-<path d="M5500 2150 L5500 2450" /> 
-<path d="M5500 2450 L5500 2550" /> 
+<path d="M5500 2550 L5500 2150" /> 
 </g>
 <g style="fill:#00A000; fill-opacity:1.0; 
   stroke:#00A000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:0" 
@@ -18891,13 +19009,6 @@ points="850,1750
 <g style = "stroke-linecap:round;" > 
 <path d="M676 1417 L676 1417" /> 
 </g></g>
-<g style="fill:#A00000; fill-opacity:0.0; 
-  stroke:#A00000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:12" 
-   transform="translate(0 0) scale(1 1)">
-<path d="M3300 3550 L3350 3600" /> 
-<path d="M3350 3600 L3400 3550" /> 
-<path d="M3400 3550 L3300 3550" /> 
-</g>
 <g style="fill:#000000; fill-opacity:0.0; 
   stroke:#000000; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0; stroke-width:10" 
    transform="translate(0 0) scale(1 1)">
@@ -20307,146 +20418,7 @@ points="3390,3350
 <path d="M6262 3706 L6239 3706" /> 
 <g style = "stroke-linecap:round;" > 
 <path d="M6239 3706 L6239 3706" /> 
-</g><path d="M6361 3431 L6370 3434" /> 
-<path d="M6370 3434 L6384 3434" /> 
-<path d="M6384 3434 L6390 3431" /> 
-<path d="M6390 3431 L6393 3429" /> 
-<path d="M6393 3429 L6396 3423" /> 
-<path d="M6396 3423 L6396 3417" /> 
-<path d="M6396 3417 L6393 3411" /> 
-<path d="M6393 3411 L6390 3409" /> 
-<path d="M6390 3409 L6384 3406" /> 
-<path d="M6384 3406 L6373 3403" /> 
-<path d="M6373 3403 L6367 3400" /> 
-<path d="M6367 3400 L6364 3397" /> 
-<path d="M6364 3397 L6361 3391" /> 
-<path d="M6361 3391 L6361 3386" /> 
-<path d="M6361 3386 L6364 3380" /> 
-<path d="M6364 3380 L6367 3377" /> 
-<path d="M6367 3377 L6373 3374" /> 
-<path d="M6373 3374 L6387 3374" /> 
-<path d="M6387 3374 L6396 3377" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6396 3377 L6396 3377" /> 
-</g><path d="M6456 3429 L6453 3431" /> 
-<path d="M6453 3431 L6444 3434" /> 
-<path d="M6444 3434 L6438 3434" /> 
-<path d="M6438 3434 L6430 3431" /> 
-<path d="M6430 3431 L6424 3426" /> 
-<path d="M6424 3426 L6421 3420" /> 
-<path d="M6421 3420 L6418 3409" /> 
-<path d="M6418 3409 L6418 3400" /> 
-<path d="M6418 3400 L6421 3389" /> 
-<path d="M6421 3389 L6424 3383" /> 
-<path d="M6424 3383 L6430 3377" /> 
-<path d="M6430 3377 L6438 3374" /> 
-<path d="M6438 3374 L6444 3374" /> 
-<path d="M6444 3374 L6453 3377" /> 
-<path d="M6453 3377 L6456 3380" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6456 3380 L6456 3380" /> 
-</g><path d="M6481 3434 L6481 3374" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6481 3374 L6481 3374" /> 
-</g><path d="M6516 3434 L6490 3400" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6490 3400 L6490 3400" /> 
-</g><path d="M6516 3374 L6481 3409" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6481 3409 L6481 3409" /> 
-</g><path d="M6364 3334 L6364 3274" /> 
-<path d="M6364 3274 L6384 3317" /> 
-<path d="M6384 3317 L6404 3274" /> 
-<path d="M6404 3274 L6404 3334" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6404 3334 L6404 3334" /> 
-</g><path d="M6445 3274 L6456 3274" /> 
-<path d="M6456 3274 L6462 3277" /> 
-<path d="M6462 3277 L6468 3283" /> 
-<path d="M6468 3283 L6470 3294" /> 
-<path d="M6470 3294 L6470 3314" /> 
-<path d="M6470 3314 L6468 3326" /> 
-<path d="M6468 3326 L6462 3331" /> 
-<path d="M6462 3331 L6456 3334" /> 
-<path d="M6456 3334 L6445 3334" /> 
-<path d="M6445 3334 L6439 3331" /> 
-<path d="M6439 3331 L6433 3326" /> 
-<path d="M6433 3326 L6430 3314" /> 
-<path d="M6430 3314 L6430 3294" /> 
-<path d="M6430 3294 L6433 3283" /> 
-<path d="M6433 3283 L6439 3277" /> 
-<path d="M6439 3277 L6445 3274" /> 
-<path d="M6493 3331 L6502 3334" /> 
-<path d="M6502 3334 L6516 3334" /> 
-<path d="M6516 3334 L6522 3331" /> 
-<path d="M6522 3331 L6525 3329" /> 
-<path d="M6525 3329 L6528 3323" /> 
-<path d="M6528 3323 L6528 3317" /> 
-<path d="M6528 3317 L6525 3311" /> 
-<path d="M6525 3311 L6522 3309" /> 
-<path d="M6522 3309 L6516 3306" /> 
-<path d="M6516 3306 L6505 3303" /> 
-<path d="M6505 3303 L6499 3300" /> 
-<path d="M6499 3300 L6496 3297" /> 
-<path d="M6496 3297 L6493 3291" /> 
-<path d="M6493 3291 L6493 3286" /> 
-<path d="M6493 3286 L6496 3280" /> 
-<path d="M6496 3280 L6499 3277" /> 
-<path d="M6499 3277 L6505 3274" /> 
-<path d="M6505 3274 L6519 3274" /> 
-<path d="M6519 3274 L6528 3277" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6528 3277 L6528 3277" /> 
-</g><path d="M6553 3334 L6553 3274" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6553 3274 L6553 3274" /> 
-</g><path d="M6364 3234 L6364 3174" /> 
-<path d="M6364 3174 L6384 3217" /> 
-<path d="M6384 3217 L6404 3174" /> 
-<path d="M6404 3174 L6404 3234" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6404 3234 L6404 3234" /> 
-</g><path d="M6433 3234 L6433 3174" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6433 3174 L6433 3174" /> 
-</g><path d="M6459 3231 L6468 3234" /> 
-<path d="M6468 3234 L6482 3234" /> 
-<path d="M6482 3234 L6488 3231" /> 
-<path d="M6488 3231 L6491 3229" /> 
-<path d="M6491 3229 L6494 3223" /> 
-<path d="M6494 3223 L6494 3217" /> 
-<path d="M6494 3217 L6491 3211" /> 
-<path d="M6491 3211 L6488 3209" /> 
-<path d="M6488 3209 L6482 3206" /> 
-<path d="M6482 3206 L6471 3203" /> 
-<path d="M6471 3203 L6465 3200" /> 
-<path d="M6465 3200 L6462 3197" /> 
-<path d="M6462 3197 L6459 3191" /> 
-<path d="M6459 3191 L6459 3186" /> 
-<path d="M6459 3186 L6462 3180" /> 
-<path d="M6462 3180 L6465 3177" /> 
-<path d="M6465 3177 L6471 3174" /> 
-<path d="M6471 3174 L6485 3174" /> 
-<path d="M6485 3174 L6494 3177" /> 
-<g style = "stroke-linecap:round;" > 
-<path d="M6494 3177 L6494 3177" /> 
-</g><path d="M6531 3174 L6542 3174" /> 
-<path d="M6542 3174 L6548 3177" /> 
-<path d="M6548 3177 L6554 3183" /> 
-<path d="M6554 3183 L6556 3194" /> 
-<path d="M6556 3194 L6556 3214" /> 
-<path d="M6556 3214 L6554 3226" /> 
-<path d="M6554 3226 L6548 3231" /> 
-<path d="M6548 3231 L6542 3234" /> 
-<path d="M6542 3234 L6531 3234" /> 
-<path d="M6531 3234 L6525 3231" /> 
-<path d="M6525 3231 L6519 3226" /> 
-<path d="M6519 3226 L6516 3214" /> 
-<path d="M6516 3214 L6516 3194" /> 
-<path d="M6516 3194 L6519 3183" /> 
-<path d="M6519 3183 L6525 3177" /> 
-<path d="M6525 3177 L6531 3174" /> 
-<path d="M6464 1184 L6464 1124" /> 
+</g><path d="M6464 1184 L6464 1124" /> 
 <path d="M6464 1124 L6484 1167" /> 
 <path d="M6484 1167 L6504 1124" /> 
 <path d="M6504 1124 L6504 1184" /> 
@@ -23395,138 +23367,111 @@ points="470,470
 <path d="M8143 7604 L8143 7610" /> 
 <g style = "stroke-linecap:round;" > 
 <path d="M8143 7610 L8143 7610" /> 
-</g><path d="M8227 7607 L8221 7604" /> 
-<path d="M8221 7604 L8218 7601" /> 
-<path d="M8218 7601 L8215 7596" /> 
-<path d="M8215 7596 L8215 7593" /> 
-<path d="M8215 7593 L8218 7587" /> 
-<path d="M8218 7587 L8221 7584" /> 
-<path d="M8221 7584 L8227 7581" /> 
-<path d="M8227 7581 L8238 7581" /> 
-<path d="M8238 7581 L8244 7584" /> 
-<path d="M8244 7584 L8247 7587" /> 
-<path d="M8247 7587 L8250 7593" /> 
-<path d="M8250 7593 L8250 7596" /> 
-<path d="M8250 7596 L8247 7601" /> 
-<path d="M8247 7601 L8244 7604" /> 
-<path d="M8244 7604 L8238 7607" /> 
-<path d="M8238 7607 L8227 7607" /> 
-<path d="M8227 7607 L8221 7610" /> 
-<path d="M8221 7610 L8218 7613" /> 
-<path d="M8218 7613 L8215 7618" /> 
-<path d="M8215 7618 L8215 7630" /> 
-<path d="M8215 7630 L8218 7636" /> 
-<path d="M8218 7636 L8221 7638" /> 
-<path d="M8221 7638 L8227 7641" /> 
-<path d="M8227 7641 L8238 7641" /> 
-<path d="M8238 7641 L8244 7638" /> 
-<path d="M8244 7638 L8247 7636" /> 
-<path d="M8247 7636 L8250 7630" /> 
-<path d="M8250 7630 L8250 7618" /> 
-<path d="M8250 7618 L8247 7613" /> 
-<path d="M8247 7613 L8244 7610" /> 
-<path d="M8244 7610 L8238 7607" /> 
+</g><path d="M8250 7641 L8215 7641" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8238 7607 L8238 7607" /> 
-</g><path d="M8321 7641 L8321 7601" /> 
+<path d="M8215 7641 L8215 7641" /> 
+</g><path d="M8233 7641 L8233 7581" /> 
+<path d="M8233 7581 L8227 7590" /> 
+<path d="M8227 7590 L8221 7596" /> 
+<path d="M8221 7596 L8215 7598" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8321 7601 L8321 7601" /> 
-</g><path d="M8321 7607 L8324 7604" /> 
-<path d="M8324 7604 L8330 7601" /> 
-<path d="M8330 7601 L8338 7601" /> 
-<path d="M8338 7601 L8344 7604" /> 
-<path d="M8344 7604 L8347 7610" /> 
-<path d="M8347 7610 L8347 7641" /> 
+<path d="M8215 7598 L8215 7598" /> 
+</g><path d="M8347 7641 L8347 7610" /> 
+<path d="M8347 7610 L8344 7604" /> 
+<path d="M8344 7604 L8338 7601" /> 
+<path d="M8338 7601 L8327 7601" /> 
+<path d="M8327 7601 L8321 7604" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8347 7641 L8347 7641" /> 
-</g><path d="M8347 7610 L8350 7604" /> 
-<path d="M8350 7604 L8356 7601" /> 
-<path d="M8356 7601 L8364 7601" /> 
-<path d="M8364 7601 L8370 7604" /> 
-<path d="M8370 7604 L8373 7610" /> 
-<path d="M8373 7610 L8373 7641" /> 
+<path d="M8321 7604 L8321 7604" /> 
+</g><path d="M8347 7638 L8341 7641" /> 
+<path d="M8341 7641 L8327 7641" /> 
+<path d="M8327 7641 L8321 7638" /> 
+<path d="M8321 7638 L8318 7633" /> 
+<path d="M8318 7633 L8318 7627" /> 
+<path d="M8318 7627 L8321 7621" /> 
+<path d="M8321 7621 L8327 7618" /> 
+<path d="M8327 7618 L8341 7618" /> 
+<path d="M8341 7618 L8347 7616" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8373 7641 L8373 7641" /> 
-</g><path d="M8427 7641 L8427 7610" /> 
-<path d="M8427 7610 L8424 7604" /> 
-<path d="M8424 7604 L8418 7601" /> 
-<path d="M8418 7601 L8407 7601" /> 
-<path d="M8407 7601 L8401 7604" /> 
+<path d="M8347 7616 L8347 7616" /> 
+</g><path d="M8375 7601 L8375 7661" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8401 7604 L8401 7604" /> 
-</g><path d="M8427 7638 L8421 7641" /> 
-<path d="M8421 7641 L8407 7641" /> 
-<path d="M8407 7641 L8401 7638" /> 
-<path d="M8401 7638 L8398 7633" /> 
-<path d="M8398 7633 L8398 7627" /> 
-<path d="M8398 7627 L8401 7621" /> 
-<path d="M8401 7621 L8407 7618" /> 
-<path d="M8407 7618 L8421 7618" /> 
-<path d="M8421 7618 L8427 7616" /> 
+<path d="M8375 7661 L8375 7661" /> 
+</g><path d="M8375 7604 L8381 7601" /> 
+<path d="M8381 7601 L8392 7601" /> 
+<path d="M8392 7601 L8398 7604" /> 
+<path d="M8398 7604 L8401 7607" /> 
+<path d="M8401 7607 L8404 7613" /> 
+<path d="M8404 7613 L8404 7630" /> 
+<path d="M8404 7630 L8401 7636" /> 
+<path d="M8401 7636 L8398 7638" /> 
+<path d="M8398 7638 L8392 7641" /> 
+<path d="M8392 7641 L8381 7641" /> 
+<path d="M8381 7641 L8375 7638" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8427 7616 L8427 7616" /> 
-</g><path d="M8455 7641 L8455 7601" /> 
+<path d="M8375 7638 L8375 7638" /> 
+</g><path d="M8429 7641 L8429 7601" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8455 7601 L8455 7601" /> 
-</g><path d="M8455 7613 L8458 7607" /> 
-<path d="M8458 7607 L8461 7604" /> 
-<path d="M8461 7604 L8467 7601" /> 
-<path d="M8467 7601 L8472 7601" /> 
+<path d="M8429 7601 L8429 7601" /> 
+</g><path d="M8429 7613 L8432 7607" /> 
+<path d="M8432 7607 L8435 7604" /> 
+<path d="M8435 7604 L8441 7601" /> 
+<path d="M8441 7601 L8446 7601" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8472 7601 L8472 7601" /> 
-</g><path d="M8535 7587 L8538 7584" /> 
-<path d="M8538 7584 L8544 7581" /> 
-<path d="M8544 7581 L8558 7581" /> 
-<path d="M8558 7581 L8564 7584" /> 
-<path d="M8564 7584 L8567 7587" /> 
-<path d="M8567 7587 L8570 7593" /> 
-<path d="M8570 7593 L8570 7598" /> 
-<path d="M8570 7598 L8567 7607" /> 
-<path d="M8567 7607 L8533 7641" /> 
-<path d="M8533 7641 L8570 7641" /> 
+<path d="M8446 7601 L8446 7601" /> 
+</g><path d="M8509 7587 L8512 7584" /> 
+<path d="M8512 7584 L8518 7581" /> 
+<path d="M8518 7581 L8532 7581" /> 
+<path d="M8532 7581 L8538 7584" /> 
+<path d="M8538 7584 L8541 7587" /> 
+<path d="M8541 7587 L8544 7593" /> 
+<path d="M8544 7593 L8544 7598" /> 
+<path d="M8544 7598 L8541 7607" /> 
+<path d="M8541 7607 L8507 7641" /> 
+<path d="M8507 7641 L8544 7641" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8570 7641 L8570 7641" /> 
-</g><path d="M8607 7581 L8612 7581" /> 
-<path d="M8612 7581 L8618 7584" /> 
-<path d="M8618 7584 L8621 7587" /> 
-<path d="M8621 7587 L8624 7593" /> 
-<path d="M8624 7593 L8627 7604" /> 
-<path d="M8627 7604 L8627 7618" /> 
-<path d="M8627 7618 L8624 7630" /> 
-<path d="M8624 7630 L8621 7636" /> 
-<path d="M8621 7636 L8618 7638" /> 
-<path d="M8618 7638 L8612 7641" /> 
-<path d="M8612 7641 L8607 7641" /> 
-<path d="M8607 7641 L8601 7638" /> 
-<path d="M8601 7638 L8598 7636" /> 
-<path d="M8598 7636 L8595 7630" /> 
-<path d="M8595 7630 L8592 7618" /> 
-<path d="M8592 7618 L8592 7604" /> 
-<path d="M8592 7604 L8595 7593" /> 
-<path d="M8595 7593 L8598 7587" /> 
-<path d="M8598 7587 L8601 7584" /> 
-<path d="M8601 7584 L8607 7581" /> 
-<path d="M8684 7641 L8649 7641" /> 
+<path d="M8544 7641 L8544 7641" /> 
+</g><path d="M8581 7581 L8586 7581" /> 
+<path d="M8586 7581 L8592 7584" /> 
+<path d="M8592 7584 L8595 7587" /> 
+<path d="M8595 7587 L8598 7593" /> 
+<path d="M8598 7593 L8601 7604" /> 
+<path d="M8601 7604 L8601 7618" /> 
+<path d="M8601 7618 L8598 7630" /> 
+<path d="M8598 7630 L8595 7636" /> 
+<path d="M8595 7636 L8592 7638" /> 
+<path d="M8592 7638 L8586 7641" /> 
+<path d="M8586 7641 L8581 7641" /> 
+<path d="M8581 7641 L8575 7638" /> 
+<path d="M8575 7638 L8572 7636" /> 
+<path d="M8572 7636 L8569 7630" /> 
+<path d="M8569 7630 L8566 7618" /> 
+<path d="M8566 7618 L8566 7604" /> 
+<path d="M8566 7604 L8569 7593" /> 
+<path d="M8569 7593 L8572 7587" /> 
+<path d="M8572 7587 L8575 7584" /> 
+<path d="M8575 7584 L8581 7581" /> 
+<path d="M8658 7641 L8623 7641" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8649 7641 L8649 7641" /> 
-</g><path d="M8667 7641 L8667 7581" /> 
-<path d="M8667 7581 L8661 7590" /> 
-<path d="M8661 7590 L8655 7596" /> 
-<path d="M8655 7596 L8649 7598" /> 
+<path d="M8623 7641 L8623 7641" /> 
+</g><path d="M8641 7641 L8641 7581" /> 
+<path d="M8641 7581 L8635 7590" /> 
+<path d="M8635 7590 L8629 7596" /> 
+<path d="M8629 7596 L8623 7598" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8649 7598 L8649 7598" /> 
-</g><path d="M8706 7587 L8709 7584" /> 
-<path d="M8709 7584 L8715 7581" /> 
-<path d="M8715 7581 L8729 7581" /> 
-<path d="M8729 7581 L8735 7584" /> 
-<path d="M8735 7584 L8738 7587" /> 
-<path d="M8738 7587 L8741 7593" /> 
-<path d="M8741 7593 L8741 7598" /> 
-<path d="M8741 7598 L8738 7607" /> 
-<path d="M8738 7607 L8704 7641" /> 
-<path d="M8704 7641 L8741 7641" /> 
+<path d="M8623 7598 L8623 7598" /> 
+</g><path d="M8680 7587 L8683 7584" /> 
+<path d="M8683 7584 L8689 7581" /> 
+<path d="M8689 7581 L8703 7581" /> 
+<path d="M8703 7581 L8709 7584" /> 
+<path d="M8709 7584 L8712 7587" /> 
+<path d="M8712 7587 L8715 7593" /> 
+<path d="M8715 7593 L8715 7598" /> 
+<path d="M8715 7598 L8712 7607" /> 
+<path d="M8712 7607 L8678 7641" /> 
+<path d="M8678 7641 L8715 7641" /> 
 <g style = "stroke-linecap:round;" > 
-<path d="M8741 7641 L8741 7641" /> 
+<path d="M8715 7641 L8715 7641" /> 
 </g><path d="M7104 7761 L7104 7701" /> 
 <g style = "stroke-linecap:round;" > 
 <path d="M7104 7701 L7104 7701" /> 

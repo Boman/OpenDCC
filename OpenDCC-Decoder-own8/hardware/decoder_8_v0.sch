@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Do 08 Mär 2012 10:54:34 CET
+EESchema Schematic File Version 2  date So 01 Apr 2012 05:02:00 CEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "8 mar 2012"
+Date "1 apr 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -46,6 +46,22 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Label 6350 3950 0    60   ~ 0
+MOSI
+Text Label 6350 3850 0    60   ~ 0
+MISO
+Text Label 6350 3750 0    60   ~ 0
+SCK
+$Comp
+L VCC #PWR?
+U 1 1 4F77C4E4
+P 3350 3550
+F 0 "#PWR?" H 3350 3650 30  0001 C CNN
+F 1 "VCC" H 3350 3650 30  0000 C CNN
+F 4 "" V 3350 3550 60  0001 C CNN "Reichelt"
+	1    3350 3550
+	1    0    0    1   
+$EndComp
 Wire Wire Line
 	5850 5750 6300 5750
 Wire Wire Line
@@ -1553,16 +1569,6 @@ F 4 "AKL 059-02" V 750 1600 60  0001 C CNN "Reichelt"
 	1    750  1600
 	-1   0    0    1   
 $EndComp
-$Comp
-L GND #PWR022
-U 1 1 4F3A4FA7
-P 3350 3550
-F 0 "#PWR022" H 3350 3550 30  0001 C CNN
-F 1 "GND" H 3350 3480 30  0001 C CNN
-F 4 "" V 3350 3550 60  0001 C CNN "Reichelt"
-	1    3350 3550
-	1    0    0    -1  
-$EndComp
 Text Label 3350 2850 0    60   ~ 0
 RESET
 $Comp
@@ -1623,12 +1629,6 @@ Text Label 5950 3250 0    60   ~ 0
 SW_6_R
 Text Label 5950 3750 0    60   ~ 0
 SW_0_R
-Text Label 6350 3450 0    60   ~ 0
-SCK
-Text Label 6350 3350 0    60   ~ 0
-MOSI
-Text Label 6350 3250 0    60   ~ 0
-MISO
 Text Label 6450 1200 0    60   ~ 0
 MOSI
 $Comp
